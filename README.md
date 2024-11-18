@@ -4,5 +4,4 @@
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img.png" />
-  <img alt="Demo" src="./Images/readme-img.png1" />
 </div>
